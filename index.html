@@ -1,0 +1,14 @@
+---
+layout: default
+---
+
+<h1>Welcome to BlogPlace Multi-User Blog</h1>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <img src="{{ site.data.users | where: "username", post.author | first | avatar }}" alt="{{ post.author }}" width="30" />
+      <a href="{{ post.url }}">{{ post.title }}</a> by {{ site.data.users | where: "username", post.author | first | display_name }}
+    </li>
+  {% endfor %}
+</ul>
