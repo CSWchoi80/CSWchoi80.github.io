@@ -1,71 +1,135 @@
-# BlogPlace 🌟
+# 🌟 BlogPlace - GitHub Blogger 스타일 (다국어)
 
-Hello! 👋  
-This blog platform is hosted on **BlogPlace** ([bloguser.kro.kr](https://bloguser.kro.kr)).
-
-**BlogPlace** makes it easy to start your own blog quickly and effortlessly.
-
----
-
-## 💡 Key Features
-
-- 🧑‍💻 **Easy Setup:** Sign up and start blogging instantly  
-- 🎨 **Customizable Themes:** Choose the look you like  
-- 🔗 **Custom Domain:** Use `bloguser.kro.kr` or your own  
-- ✍️ **Markdown Editor:** Clean and intuitive writing experience  
-- 🖼️ **Image Uploads:** Add cover images and inline photos  
-- 🔖 **Tags & Categories:** Organize posts by topics  
-- 💬 **Comments & Likes:** Engage with readers in real-time  
-- 📱 **Responsive Design:** Optimized for desktop, tablet, and mobile  
-- 📈 **Monetization Ready:** Connect ads to earn revenue  
-
-[Visit BlogPlace](https://bloguser.kro.kr)
+## 🌐 언어 선택 (정적 링크)
+- [한국어](#ko)
+- [English](#en)
+- [日本語](#ja)
+- [中文](#zh)
 
 ---
 
-## 🌍 About BlogPlace
+<a id="ko"></a>
+## 🏠 홈 (한국어)
+![블로그 배너](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
+GitHub에서 블로거 앱 느낌 그대로 구현
 
-**BlogPlace** is an open blogging platform where anyone can freely share their thoughts and experiences.  
-Whether it’s a personal diary, tech blog, travel journal, or review — BlogPlace is the place to express yourself.
+### 📰 최신 글
+- 블로그 시작하기 (2025-10-01)  
+- GitHub 블로그 활용 팁 (2025-09-25)  
+- 마크다운 글쓰기 방법 (2025-09-10)
 
-After signing up, users can write posts instantly, follow other authors, and engage in discussions.
+### 📝 글쓰기
+[GitHub 새 글 작성](https://github.com/new)
 
-> 📖 “A place where everyone’s thoughts come together — BlogPlace.”
+### 📸 갤러리
+![이미지1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![이미지2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![이미지3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
 
----
+### 🔥 인기 글
+- GitHub 블로그 활용법  
+- 마크다운 글쓰기 팁  
+- 블로그 디자인 가이드
 
-## 🤝 Contributing
+### 🏷️ 태그
+Python | JavaScript | 디자인 | Life
 
-1. **Fork** this repository  
-2. Create a new feature or fix a bug  
-3. Submit a **pull request**  
-
-> 💡 Follow the existing code style and commit message conventions. Include issue numbers in your PR when applicable.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).  
-You are free to use, modify, and distribute it.
-
----
-
-## 💡 Vision
-
-> “**A world connected through words.**”  
-> BlogPlace aims to make blogging accessible for everyone — no technical barriers, just creativity and community.
+### 🔗 소셜 로그인
+Google | GitHub | Apple | Kakao
 
 ---
 
-## 🧑‍🎨 Creator
+<a id="en"></a>
+## 🏠 Home (English)
+![Blog Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
+GitHub Blogger app style implementation
 
-- **Project Lead:** [Choi](cswchoi233.blogspot.com)  
-- **Website:** [https://bloguser.kro.kr](https://bloguser.kro.kr)  
-- **Contact:** cseongwon233@gmail.com  
+### 📰 Latest Posts
+- Getting Started with Blogging (2025-10-01)  
+- GitHub Blog Tips & Tricks (2025-09-25)  
+- Markdown Writing Guide (2025-09-10)
+
+### 📝 Write Post
+[Create New Post on GitHub](https://github.com/new)
+
+### 📸 Gallery
+![Image1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![Image2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![Image3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+
+### 🔥 Popular Posts
+- GitHub Blog Tips  
+- Markdown Writing Guide  
+- Blog Design Tutorial
+
+### 🏷️ Tags
+Python | JavaScript | Design | Life
+
+### 🔗 Social Login
+Google | GitHub | Apple | Kakao
 
 ---
 
-> 💬 Got ideas or feedback? Open an [Issue](cseongwon233@gmail.com)!
+<a id="ja"></a>
+## 🏠 ホーム (日本語)
+![ブログバナー](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
+GitHubでBlogger風ブログを実装
 
-> Let’s build a better **BlogPlace** together 🚀
+### 📰 最新記事
+- ブログの始め方 (2025-10-01)  
+- GitHubブログ活用のコツ (2025-09-25)  
+- Markdown記事作成ガイド (2025-09-10)
+
+### 📝 記事を書く
+[GitHubで新規作成](https://github.com/new)
+
+### 📸 ギャラリー
+![画像1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![画像2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![画像3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+
+### 🔥 人気記事
+- GitHubブログ活用法  
+- Markdown記事作成ガイド  
+- ブログデザインチュートリアル
+
+### 🏷️ タグ
+Python | JavaScript | デザイン | Life
+
+### 🔗 ソーシャルログイン
+Google | GitHub | Apple | Kakao
+
+---
+
+<a id="zh"></a>
+## 🏠 主页 (中文)
+![博客横幅](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
+在GitHub上实现Blogger风格博客
+
+### 📰 最新文章
+- 博客入门 (2025-10-01)  
+- GitHub博客使用技巧 (2025-09-25)  
+- Markdown写作指南 (2025-09-10)
+
+### 📝 写文章
+[在GitHub创建新文章](https://github.com/new)
+
+### 📸 画廊
+![图片1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![图片2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+![图片3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+
+### 🔥 热门文章
+- GitHub博客技巧  
+- Markdown写作指南  
+- 博客设计教程
+
+### 🏷️ 标签
+Python | JavaScript | 设计 | Life
+
+### 🔗 社交登录
+Google | GitHub | Apple | Kakao
+
+---
+
+<p align="center">✨ Made with 💖 GitHub & Markdown</p>
