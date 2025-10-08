@@ -8,6 +8,10 @@
 
 <a id="ko"></a>
 ## 🇰🇷 홈 (한국어)
+| **🏠 홈** | **📝 전체 글** | **🏷️ 태그** | **🔗 소개** |
+| :---: | :---: | :---: | :---: |
+| [Home](#ko) | [All Posts](all-posts.md) | [Tags](tags.md) | [About](about.md) |
+
 ![블로그 배너: 푸른 바다 이미지](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
 > GitHub Pages 기반의 심플하고 빠른 블로그입니다.
 ---
@@ -46,6 +50,10 @@
 
 <a id="en"></a>
 ## 🇺🇸 Home (English)
+| **🏠 Home** | **📝 All Posts** | **🏷️ Tags** | **🔗 About** |
+| :---: | :---: | :---: | :---: |
+| [Home](#en) | [All Posts](all-posts.md) | [Tags](tags.md) | [About](about.md) |
+
 ![Blog Banner: Blue ocean image](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
 > A simple and fast blog powered by GitHub Pages.
 ---
