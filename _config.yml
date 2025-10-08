@@ -1,0 +1,10 @@
+title: BlogUser Multi Blog
+baseurl: ""
+url: "https://bloguser.kro.kr"
+theme: minima
+
+# 사용자 포스트를 _posts에서 자동으로 불러오기
+collections:
+  posts:
+    output: true
+    permalink: /:collection/:name/
