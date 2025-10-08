@@ -41,7 +41,7 @@
 </p>
 
 ### 🔗 소셜 프로필 (Social Profiles)
-[카카오톡](#) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
+[카카오톡](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
 
 ---
 
@@ -72,7 +72,7 @@ To write a new post, please add a **Markdown file** via a **Pull Request** to th
 
 ---
 
-### 📸 Gallery
+### 📸 갤러리 (Gallery)
 <p align="center">
   <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image1" width="300" />
   <img src="https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image2" width="300" />
@@ -80,7 +80,7 @@ To write a new post, please add a **Markdown file** via a **Pull Request** to th
 </p>
 
 ### 🔗 Social Profiles
-[KakaoTalk](#) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
+[KakaoTalk](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
 
 ---
 
