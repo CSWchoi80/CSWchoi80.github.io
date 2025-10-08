@@ -1,134 +1,84 @@
 # 🌟 BlogPlace - GitHub Blogger 스타일 (다국어)
 
-## 🌐 언어 선택 (정적 링크)
+## 🌐 언어 선택
 - [한국어](#ko)
 - [English](#en)
-- [日本語](#ja)
-- [中文](#zh)
 
 ---
 
 <a id="ko"></a>
-## 🏠 홈 (한국어)
-![블로그 배너](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
-GitHub에서 블로거 앱 느낌 그대로 구현
+## 🇰🇷 홈 (한국어)
+![블로그 배너: 푸른 바다 이미지](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
+> GitHub Pages 기반의 심플하고 빠른 블로그입니다.
+---
 
-### 📰 최신 글
-- 블로그 시작하기 (2025-10-01)  
-- GitHub 블로그 활용 팁 (2025-09-25)  
-- 마크다운 글쓰기 방법 (2025-09-10)
+### 📰 최신 글 (Latest Posts)
+| 날짜 | 제목 |
+| :--- | :--- |
+| 2025-10-01 | [블로그 시작하기](posts/post-start.md) |
+| 2025-09-25 | [GitHub 블로그 활용 팁](posts/post-github-tip.md) |
+| 2025-09-10 | [마크다운 글쓰기 방법](posts/post-markdown.md) |
 
-### 📝 글쓰기
-[GitHub 새 글 작성](https://github.com/new)
+### 🔥 인기 글 (Popular)
+- [GitHub 블로그 활용법](posts/popular-github-tip.md) - **인기 태그: GitHub**
+- [마크다운 글쓰기 팁](posts/popular-markdown.md) - **인기 태그: 마크다운**
+- [블로그 디자인 가이드](posts/popular-design-guide.md) - **인기 태그: 디자인**
 
-### 📸 갤러리
-![이미지1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![이미지2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![이미지3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+### ✍️ 기여/글쓰기 안내 (Contribute)
+새 글을 작성하고 싶다면, 이 저장소에 **Pull Request**를 통해 **Markdown 파일**을 추가해 주세요. [👉 기여 가이드라인 보기](CONTRIBUTING.md)
 
-### 🔥 인기 글
-- GitHub 블로그 활용법  
-- 마크다운 글쓰기 팁  
-- 블로그 디자인 가이드
+---
 
-### 🏷️ 태그
-Python | JavaScript | 디자인 | Life
+### 🏷️ 태그 (Tags)
+[Python](tags/python.md) | [JavaScript](tags/javascript.md) | [디자인](tags/design.md) | [Life](tags/life.md)
 
-### 🔗 소셜 로그인
-Google | GitHub | Apple | Kakao
+### 📸 갤러리 (Gallery)
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="이미지1" width="300" />
+  <img src="https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="이미지2" width="300" />
+  <img src="https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="이미지3" width="300" />
+</p>
+
+### 🔗 소셜 프로필 (Social Profiles)
+[GitHub](https://github.com/YourUsername) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
 
 ---
 
 <a id="en"></a>
-## 🏠 Home (English)
-![Blog Banner](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
-GitHub Blogger app style implementation
+## 🇺🇸 Home (English)
+![Blog Banner: Blue ocean image](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
+> A simple and fast blog powered by GitHub Pages.
+---
 
 ### 📰 Latest Posts
-- Getting Started with Blogging (2025-10-01)  
-- GitHub Blog Tips & Tricks (2025-09-25)  
-- Markdown Writing Guide (2025-09-10)
-
-### 📝 Write Post
-[Create New Post on GitHub](https://github.com/new)
-
-### 📸 Gallery
-![Image1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![Image2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![Image3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
+| Date | Title |
+| :--- | :--- |
+| 2025-10-01 | [Getting Started with Blogging](posts/en/post-start.md) |
+| 2025-09-25 | [GitHub Blog Tips & Tricks](posts/en/post-github-tip.md) |
+| 2025-09-10 | [Markdown Writing Guide](posts/en/post-markdown.md) |
 
 ### 🔥 Popular Posts
-- GitHub Blog Tips  
-- Markdown Writing Guide  
-- Blog Design Tutorial
+- [GitHub Blog Tips](posts/en/popular-github-tip.md) - **Popular Tag: GitHub**
+- [Markdown Writing Guide](posts/en/popular-markdown.md) - **Popular Tag: Markdown**
+- [Blog Design Tutorial](posts/en/popular-design-guide.md) - **Popular Tag: Design**
+
+### ✍️ Contribution Guide
+To write a new post, please add a **Markdown file** via a **Pull Request** to this repository. [👉 View Contribution Guidelines](CONTRIBUTING.md)
+
+---
 
 ### 🏷️ Tags
-Python | JavaScript | Design | Life
+[Python](tags/python.md) | [JavaScript](tags/javascript.md) | [Design](tags/design.md) | [Life](tags/life.md)
 
-### 🔗 Social Login
-Google | GitHub | Apple | Kakao
+### 📸 Gallery
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image1" width="300" />
+  <img src="https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image2" width="300" />
+  <img src="https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image3" width="300" />
+</p>
 
----
-
-<a id="ja"></a>
-## 🏠 ホーム (日本語)
-![ブログバナー](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
-GitHubでBlogger風ブログを実装
-
-### 📰 最新記事
-- ブログの始め方 (2025-10-01)  
-- GitHubブログ活用のコツ (2025-09-25)  
-- Markdown記事作成ガイド (2025-09-10)
-
-### 📝 記事を書く
-[GitHubで新規作成](https://github.com/new)
-
-### 📸 ギャラリー
-![画像1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![画像2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![画像3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-
-### 🔥 人気記事
-- GitHubブログ活用法  
-- Markdown記事作成ガイド  
-- ブログデザインチュートリアル
-
-### 🏷️ タグ
-Python | JavaScript | デザイン | Life
-
-### 🔗 ソーシャルログイン
-Google | GitHub | Apple | Kakao
-
----
-
-<a id="zh"></a>
-## 🏠 主页 (中文)
-![博客横幅](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
-在GitHub上实现Blogger风格博客
-
-### 📰 最新文章
-- 博客入门 (2025-10-01)  
-- GitHub博客使用技巧 (2025-09-25)  
-- Markdown写作指南 (2025-09-10)
-
-### 📝 写文章
-[在GitHub创建新文章](https://github.com/new)
-
-### 📸 画廊
-![图片1](https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![图片2](https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-![图片3](https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300)
-
-### 🔥 热门文章
-- GitHub博客技巧  
-- Markdown写作指南  
-- 博客设计教程
-
-### 🏷️ 标签
-Python | JavaScript | 设计 | Life
-
-### 🔗 社交登录
-Google | GitHub | Apple | Kakao
+### 🔗 Social Profiles
+[GitHub](https://github.com/YourUsername) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
 
 ---
 
