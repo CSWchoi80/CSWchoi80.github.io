@@ -30,8 +30,3 @@
 ## 🔗 방문 링크
 - GitHub Pages: [https://username.github.io](https://username.github.io)  
 - DuckDNS 서브도메인: [https://blog.duckdns.org](https://blog.duckdns.org)  
-
----
-
-> 즐거운 블로그 생활 되세요! 🚀
-
