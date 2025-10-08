@@ -44,7 +44,7 @@
 </p>
 
 ### 🔗 소셜 프로필 (Social Profiles)
-[GitHub](https://github.com/YourUsername) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
+[카카오톡](#) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
 
 ---
 
@@ -86,7 +86,7 @@ To write a new post, please add a **Markdown file** via a **Pull Request** to th
 </p>
 
 ### 🔗 Social Profiles
-[GitHub](https://github.com/YourUsername) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
+[KakaoTalk](#) | [Twitter](https://twitter.com/YourUsername) | [LinkedIn](https://linkedin.com/in/YourUsername)
 
 ---
 
