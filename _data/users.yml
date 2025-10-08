@@ -1,0 +1,6 @@
+- username: user1
+  display_name: Alice
+  avatar: /assets/user1.png
+- username: user2
+  display_name: Bob
+  avatar: /assets/user2.png
