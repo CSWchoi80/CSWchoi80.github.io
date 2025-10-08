@@ -41,7 +41,7 @@
 </p>
 
 ### 🔗 소셜 프로필 (Social Profiles)
-[카카오톡](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [Google Accounts](https://share.google/z02gMhE3WPEhh3jTW)
+[카카오톡](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [Google](https://share.google/z02gMhE3WPEhh3jTW)
 
 ---
 
@@ -80,7 +80,7 @@ To write a new post, please add a **Markdown file** via a **Pull Request** to th
 </p>
 
 ### 🔗 Social Profiles
-[KakaoTalk](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [Google Accounts](https://share.google/z02gMhE3WPEhh3jTW)
+[KakaoTalk](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [Google](https://share.google/z02gMhE3WPEhh3jTW)
 
 ---
 
