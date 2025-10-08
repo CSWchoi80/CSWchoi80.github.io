@@ -1,13 +1,13 @@
-# BlogUser의 블로그플레이스 공간 🌟
+# BlogPlace Space 🌟
 
-안녕하세요! 👋  
-이 블로그는 블로그플레이스(bloguser.kro.kr)에서 운영되고 있어요.  
+Hello! 👋  
+This blog is hosted on BlogPlace (bloguser.kro.kr).  
 
-블로그플레이스는 **쉽고 빠르게 나만의 블로그를 시작**할 수 있는 최고의 플랫폼입니다.  
-- 💡 **간편한 개설:** 회원가입만으로 바로 블로그 시작  
-- 🎨 **다양한 테마 지원:** 원하는 스타일 그대로 적용 가능  
-- 🔗 **맞춤 도메인 지원:** `bloguser.kro.kr`과 같은 나만의 주소 사용 가능  
-- 📈 **수익형 블로그 가능:** 광고와 연결해 수익 창출  
+BlogPlace is the perfect platform to **start your own blog quickly and easily**.  
+- 💡 **Easy Setup:** Create your blog with just a simple sign-up  
+- 🎨 **Various Themes:** Apply the style you like instantly  
+- 🔗 **Custom Domain:** Use your own address like `bloguser.kro.kr`  
+- 📈 **Monetization Ready:** Connect ads to earn revenue  
 
-블로그플레이스를 통해 나만의 콘텐츠 공간을 만들어 보세요!  
-[블로그플레이스 바로가기](https://bloguser.kro.kr)
+Create your own content space with BlogPlace today!  
+[Visit BlogPlace](https://bloguser.kro.kr)
