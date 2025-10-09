@@ -15,8 +15,6 @@
 
 ## 🏠 홈 페이지
 
-![홈 페이지 미리보기](https://images.unsplash.com/photo-1496181133206-80ce9b88a853?auto=format&fit=crop&w=1000&q=80)
-
 - 최신 글과 인기글을 한눈에 확인  
 - 맞춤형 블로그 디자인 제공  
 - Google 애드센스 연동 지원  
@@ -27,8 +25,6 @@
 
 ## ✍️ 글쓰기 페이지
 
-![글쓰기 페이지 미리보기](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1000&q=80)
-
 - 이미지, 코드, 링크, 서식 지원  
 - HTML 편집 기능 포함  
 - 작성 중 자동 임시 저장  
@@ -38,8 +34,6 @@
 ---
 
 ## 🌟 인기글 페이지
-
-![인기글 페이지 미리보기](https://images.unsplash.com/photo-1504691342899-9d7eea6fc7e3?auto=format&fit=crop&w=1000&q=80)
 
 - 실시간 조회수 기반 순위  
 - 추천 및 댓글 수 반영  
@@ -52,25 +46,22 @@
 
 ## ⚙️ 설정 페이지
 
-![설정 페이지 미리보기](https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?auto=format&fit=crop&w=1000&q=80)
-
 - 프로필 / 계정 관리  
 - 블로그 이름 및 소개 수정  
 - 테마 색상, 폰트, 톤 변경 가능  
 
-🧩 [설정으로 이동](#)
+🧩 **[설정으로 이동](https://claude.ai/chat/ac19d91d-fcdc-4c38-9be8-4eba0eaba24f)** _(설정 페이지 아티팩트 링크)_
 
 ---
 
 ## 💰 수익 페이지
 
-![수익 페이지 미리보기](https://images.unsplash.com/photo-1611162616305-7c8c7c8f8f0a?auto=format&fit=crop&w=1000&q=80)
-
 - Google 애드센스 통계 확인  
 - 게시물별 수익 분석  
 - 간편한 광고 코드 삽입  
+- HTML 편집으로 자유로운 광고 배치
 
-💵 [수익 관리](#)
+💵 **[수익 관리](https://claude.ai/chat/ac19d91d-fcdc-4c38-9be8-4eba0eaba24f)** _(수익 페이지 아티팩트 링크)_
 
 ---
 
@@ -93,7 +84,7 @@
 |------|------|
 | ✍️ 글쓰기 | 자체 에디터로 자유롭게 글 작성 |
 | 🖼️ 디자인 | 테마, 색상, 폰트 변경 지원 |
-| 💰 수익관리 | 애드센스 연동 및 수익 통계 |
+| 💰 수익관리 | 애드센스 연동 및 수익 통계 + HTML 편집 |
 | ⚙️ 설정 | 계정 및 블로그 설정 관리 |
 | 🔒 로그인 | Google, Kakao 간편 가입 |
 
@@ -101,7 +92,7 @@
 
 ## 🚀 시작하는 법
 
-1. [가입하기](#) 버튼으로 간편 로그인  
+1. [가입하기](https://www.bloguser.kro.kr) 버튼으로 간편 로그인  
 2. "글쓰기" 페이지에서 첫 글 작성  
 3. "설정"에서 블로그 스타일을 꾸며보세요  
 4. "수익" 탭에서 애드센스 등록 후 수익 확인 💸
@@ -120,9 +111,8 @@ BlogPlace는 **누구나 쉽게 블로그를 만들고 운영할 수 있는 플�
 
 ## 🌐 공식 링크
 
-- 🔗 [BlogPlace 공식 사이트](https://your-blogplace-link.com)
-- 💬 [문의하기](mailto:contact@blogplace.com)
-- 🧠 [개발자 문서](#)
+- 🔗 [BlogPlace 공식 사이트](https://www.bloguser.kro.kr)
+- 💬 [문의하기](mailto:cseongwon233@gmail.com)
 
 ---
 
