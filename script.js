@@ -1,7 +1,7 @@
-// 콜백 함수를 전역 스코프에 정의
+// 블로그 페이지 불러오기 콜백
 window.displayPages = function(json) {
     const pageList = document.getElementById('page-list');
-    pageList.innerHTML = ''; // '로딩 중...' 메시지 제거
+    pageList.innerHTML = ''; // '로딩 중...' 제거
     const entries = json.feed.entry || [];
 
     if (entries.length === 0) {
@@ -25,7 +25,7 @@ window.displayPages = function(json) {
             const link = document.createElement('a');
             link.href = pageUrl;
             link.textContent = pageTitle;
-            link.target = "_blank"; // 링크를 새 탭에서 열기
+            link.target = "_blank";
             link.rel = "noopener noreferrer";
 
             listItem.appendChild(link);
@@ -34,19 +34,17 @@ window.displayPages = function(json) {
     });
 };
 
+// 페이지 로드 시 실행
 document.addEventListener("DOMContentLoaded", function() {
-    // ⚠️ 자신의 블로그스팟 주소로 반드시 변경하세요! (예: https://google.blogspot.com)
-    const blogUrl = 'YOUR_BLOG_URL'; 
-    
-    // 블로그 주소가 설정되지 않은 경우 오류 메시지 표시
+    const blogUrl = 'YOUR_BLOG_URL'; // 자신의 블로그 주소 입력 (예: https://yourblog.blogspot.com)
+
     if (blogUrl === 'YOUR_BLOG_URL' || blogUrl.trim() === '') {
         const pageList = document.getElementById('page-list');
-        pageList.innerHTML = '<li>오류: script.js 파일에서 블로그 주소를 설정해주세요.</li>';
+        pageList.innerHTML = '<li>⚠️ 오류: script.js 파일에서 블로그 주소를 설정해주세요.</li>';
         return;
     }
-    
-    const feedUrl = `${blogUrl}/feeds/pages/default?alt=json-in-script&callback=displayPages`;
 
+    const feedUrl = `${blogUrl}/feeds/pages/default?alt=json-in-script&callback=displayPages`;
     const script = document.createElement('script');
     script.src = feedUrl;
     document.body.appendChild(script);
