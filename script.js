@@ -38,7 +38,7 @@ window.displayPages = function(json) {
 document.addEventListener("DOMContentLoaded", function() {
     const blogUrl = 'YOUR_BLOG_URL'; // 자신의 블로그 주소 입력 (예: https://yourblog.blogspot.com)
 
-    if (blogUrl === 'YOUR_BLOG_URL' || blogUrl.trim() === '') {
+    if (blogUrl === 'https://www.bloguser.kro.kr' || blogUrl.trim() === '') {
         const pageList = document.getElementById('page-list');
         pageList.innerHTML = '<li>⚠️ 오류: script.js 파일에서 블로그 주소를 설정해주세요.</li>';
         return;
