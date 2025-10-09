@@ -27,7 +27,7 @@
 
 ## ✍️ 글쓰기 페이지
 
-![글쓰기 페이지 미리보기](https://images.unsplash.com/photo-1515378791036-0648a3ef77b2?auto=format&fit=crop&w=1000&q=80)
+![포스팅하러 가기](https://claude.ai/public/artifacts/fd4046b1-f016-4380-a46b-c42394cd306b)
 
 - 이미지, 코드, 링크, 서식 지원  
 - HTML 편집 기능 포함  
