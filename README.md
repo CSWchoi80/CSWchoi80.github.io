@@ -1,87 +1,46 @@
-# 🌟 BlogPlace - GitHub Blogger 스타일 (다국어)
+# 📋 내 블로그 페이지 목록 (Blog Page List Viewer)
 
-## 🌐 언어 선택
-- [한국어](#ko)
-- [English](#en)
+왼쪽 사이드바에서 블로그 페이지 목록을 자동으로 불러오고, 클릭하면 새 탭에서 열 수 있는 깔끔한 GitHub용 블로그 페이지입니다.
 
 ---
 
-<a id="ko"></a>
-## 🇰🇷 홈 (한국어)
-| **🏠 홈** | **📝 전체 글** | **🔗 소개** |
-| :---: | :---: | :---: |
-| [Home](#ko) | [All Posts](all-posts.md) | [About](about.md) |
-
-![블로그 배너: 푸른 바다 이미지](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
-> GitHub Pages 기반의 심플하고 빠른 블로그입니다.
----
-
-### 📰 최신 글 (Latest Posts)
-| 날짜 | 제목 |
-| :--- | :--- |
-| 2025-10-01 | [블로그 시작하기](posts/post-start.md) |
-| 2025-09-25 | [GitHub 블로그 활용 팁](posts/post-github-tip.md) |
-| 2025-09-10 | [마크다운 글쓰기 방법](posts/post-markdown.md) |
-
-### 🔥 인기 글 (Popular)
-- [GitHub 블로그 활용법](posts/popular-github-tip.md)
-- [마크다운 글쓰기 팁](posts/popular-markdown.md)
-- [블로그 디자인 가이드](posts/popular-design-guide.md)
-
-### ✍️ 기여/글쓰기 안내 (Contribute)
-새 글을 작성하고 싶다면, 이 저장소에 **Pull Request**를 통해 **Markdown 파일**을 추가해 주세요. [👉 기여 가이드라인 보기](CONTRIBUTING.md)
+## 🌐 미리보기
+> GitHub Pages에서 호스팅하면 아래와 같이 작동합니다.  
+> `https://yourusername.github.io/blog-page-list/`
 
 ---
 
-### 📸 갤러리 (Gallery)
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="이미지1" width="300" />
-  <img src="https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="이미지2" width="300" />
-  <img src="https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="이미지3" width="300" />
-</p>
-
-### 🔗 소셜 프로필 (Social Profiles)
-[카카오톡](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [Google](https://share.google/z02gMhE3WPEhh3jTW)
+## 📁 구성 파일
+- `index.html` : 블로그 페이지 구조
+- `style.css` : 전체 디자인
+- `script.js` : 블로그 페이지 데이터를 불러오는 스크립트
 
 ---
 
-<a id="en"></a>
-## 🇺🇸 Home (English)
-| **🏠 Home** | **📝 All Posts** | **🔗 About** |
-| :---: | :---: | :---: |
-| [Home](#en) | [All Posts](all-posts.md) | [About](about.md) |
+## 🧩 index.html
 
-![Blog Banner: Blue ocean image](https://images.unsplash.com/photo-1507525428034-b723cf961d3e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1000)
-> A simple and fast blog powered by GitHub Pages.
----
+```html
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>내 블로그 페이지 목록</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="page-list-container">
+        <h2>페이지 목록</h2>
+        <ul id="page-list">
+            <li>로딩 중...</li>
+        </ul>
+    </div>
 
-### 📰 Latest Posts
-| Date | Title |
-| :--- | :--- |
-| 2025-10-01 | [Getting Started with Blogging](posts/en/post-start.md) |
-| 2025-09-25 | [GitHub Blog Tips & Tricks](posts/en/post-github-tip.md) |
-| 2025-09-10 | [Markdown Writing Guide](posts/en/post-markdown.md) |
+    <main class="main-content">
+        <h1>내 블로그 페이지 아카이브</h1>
+        <p>왼쪽 목록에서 보고 싶은 페이지를 선택하세요.</p>
+    </main>
 
-### 🔥 Popular Posts
-- [GitHub Blog Tips](posts/en/popular-github-tip.md)
-- [Markdown Writing Guide](posts/en/popular-markdown.md)
-- [Blog Design Tutorial](posts/en/popular-design-guide.md)
-
-### ✍️ Contribution Guide
-To write a new post, please add a **Markdown file** via a **Pull Request** to this repository. [👉 View Contribution Guidelines](CONTRIBUTING.md)
-
----
-
-### 📸 갤러리 (Gallery)
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1503023345310-bd7c1de61c7d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image1" width="300" />
-  <img src="https://images.unsplash.com/photo-1473187983305-f615310e7daa?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image2" width="300" />
-  <img src="https://images.unsplash.com/photo-1519337265831-281ec6cc8514?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=300" alt="Image3" width="300" />
-</p>
-
-### 🔗 Social Profiles
-[KakaoTalk](https://accounts.kakao.com/login/?continue=https%3A%2F%2Faccounts.kakao.com%2Fweblogin%2Faccount#webTalkLogin) | [Twitter](https://twitter.com/YourUsername) | [Google](https://share.google/z02gMhE3WPEhh3jTW)
-
----
-
-<p align="center">✨ Made with 💖 GitHub & Markdown</p>
+    <script src="script.js"></script>
+</body>
+</html>
